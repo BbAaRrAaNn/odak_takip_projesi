@@ -1,0 +1,18 @@
+{
+    "profile": {
+        "display_name": "baran",
+        "premium": false
+    },
+    "settings": {
+        "notifications_enabled": true,
+        "break_reminders_enabled": true,
+        "live_focus_notifications_enabled": true,
+        "camera_preview_default_visible": true,
+        "theme_mode": "light",
+        "language": "tr",
+        "color_vision_mode": "standard"
+    },
+    "cache": {
+        "last_cache_clear_at": "2026-05-12T23:43:07.204466"
+    }
+}
